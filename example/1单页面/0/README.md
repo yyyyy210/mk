@@ -137,10 +137,3 @@ html: {
     </footer>
 </div>
 ```
-
-主体样式—— head 插入 
-``` html
-<style>
-#id {}
-</style>
-```
